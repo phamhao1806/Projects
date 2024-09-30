@@ -1,0 +1,741 @@
+{
+  "Tb_user": [
+    {
+      "username": "hao",
+      "password": "1234",
+      "id": "qz6mcrs"
+    },
+    {
+      "username": "Hao",
+      "password": "12345",
+      "id": "unrx4xE"
+    },
+    {
+      "username": "tuan",
+      "password": "123",
+      "id": "s_FSFWY"
+    },
+    {
+      "username": "hao123",
+      "password": "123",
+      "id": "H79dBAR"
+    },
+    {
+      "username": "quang",
+      "password": "123",
+      "id": "LFfOkQi"
+    },
+    {
+      "username": "quang",
+      "password": "12345",
+      "id": "b6ONgAy"
+    },
+    {
+      "username": "son",
+      "password": "123",
+      "id": "7EOOzL_"
+    },
+    {
+      "username": "dao",
+      "password": "123",
+      "id": "dq_HGJM"
+    },
+    {
+      "username": "hoang",
+      "password": "123",
+      "id": "_hebbNg"
+    },
+    {
+      "username": "tu",
+      "password": "123",
+      "id": "HLtkLj0"
+    }
+  ],
+  "Tb_dstruyen": [
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-quy-khong-the-song-cuoc-song-binh-thuong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 9,
+      "Nguon": "Anan",
+      "id": 0,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Vạn Cổ Chí Tôn",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-khai-bai-gia.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 3,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 1
+    },
+    {
+      "name": "Linh Vũ Thiên Hạ",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fke-phan-dien-vo-song.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 8,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 2
+    },
+    {
+      "name": "Đế Chế Tuyệt Vong",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fdai-quan-gia-la-ma-hoang.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 73,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "-chào hoàng",
+      "id": 3
+    },
+    {
+      "name": "Học Viện Anh Hùng",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fke-phan-dien-vo-song.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 63,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 4
+    },
+    {
+      "name": "Vũ Động Càng Khôn",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-khai-bai-gia.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 23,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 5
+    },
+    {
+      "name": "Kiếm Hiệp Hoa Tiên",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fvan-co-toi-cuong-tong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 13,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 6
+    },
+    {
+      "name": "Phá Thương Khung",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fvo-luyen-dinh-phong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 45,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 7
+    },
+    {
+      "name": "Phi Hành Gỉa",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fkhac-kim-thanh-tien.jpg",
+      "Tacgia": "Hồng Sơn",
+      "Sochuong": 15,
+      "Nguon": "non",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 8
+    }
+  ],
+  "Tb_dstruyenCĐ": [
+    {
+      "name": "Phiêu Lưu Kĩ",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-quy-khong-the-song-cuoc-song-binh-thuong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 9,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 0
+    },
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-khai-bai-gia.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 3,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 1
+    },
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fke-phan-dien-vo-song.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 8,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 2
+    },
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fdai-quan-gia-la-ma-hoang.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 73,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 3
+    },
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fke-phan-dien-vo-song.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 63,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 4
+    },
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-khai-bai-gia.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 23,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 5
+    },
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fvan-co-toi-cuong-tong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 13,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 6
+    },
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fvo-luyen-dinh-phong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 45,
+      "Nguon": "Anan",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 7
+    },
+    {
+      "name": "Phi Hành Gỉa",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fkhac-kim-thanh-tien.jpg",
+      "Tacgia": "Hồng Sơn",
+      "Sochuong": 15,
+      "Nguon": "non",
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?",
+      "id": 8
+    }
+  ],
+  "Tb_dstruyenTT": [
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fjinrou-e-no-tensei-maou-no-fukukan.jpg",
+      "name": "Tuyệt Thế Võ Thần",
+      "Tacgia": "Hoa Vũ",
+      "id": 0,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fta-la-ta-de.jpg",
+      "name": " Ta Là Đế Vương",
+      "Tacgia": "Kim Hạo",
+      "id": 1,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fvuong-gia-thien-ha.jpg",
+      "name": "Vươn Gỉa Thiên Hạ",
+      "Tacgia": "Hoàng HT",
+      "id": 2,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fhoc-vien-anh-hung.jpg",
+      "name": "Học Viện Anh Hùng",
+      "Tacgia": "JunMe",
+      "id": 3,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fdai-y-lang-nhien.jpg",
+      "name": "Kiếm Hiệp Hoa Tiên",
+      "Tacgia": "Hoa Vũ",
+      "id": 4,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fnga-lao-ma-than.jpg",
+      "name": " Nga Lão Ma Thần",
+      "Tacgia": "Hồng jn",
+      "id": 5,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": [
+        "Lắc lư cái đầu vừa tỉnh lại sau khi chìm vào hôn mê, Lục Thiếu Du cảm thấy xung quanh mình rất ẩm ướt, hơn nữa toàn thân đau nhức như muốn tê liệt,gió từ bốn phía thổi qua, tạt vào người hắn khiến hắn không nhịn được mà rùng mình một cái.Đầu Lục Thiếu Du toát mồ hôi lạnh, hắn vội vàng mở choàng mắt. Không gian xung quanh chỉ là một mảnh đen kịt, trên không trung, một vầng trăng lưỡi liềm đang treo lơ lửng. Sau một lát, mượn ánh sáng yếu ớt phát ra từ mặt trăng hắn mới nhìn được cảnh vật rõ ràng hơn một chút.Hiện tại hắn đang ở trong một đầm nước, lúc này hẳn là ban đêm.Cơn đau điếng từ đại não truyền đến khiến hắn phải kêu lên một tiếng thảm thiết. Lục Thiếu Du cảm nhận được có một lực lượng kỳ lạ đánh vào đầu mình khiến hắn lập tức ngất đi một lần nữa.Lục Thiếu Du ngẫm lại, mình vừa mới tốt nghiệp đại học hạng ba, cũng tìm được công việc vặt vãnh ở trong một văn phòng nhỏ. Trong khi đang giúp cấp trên photo tài liệu thì không ngờ máy photocopy bị rò điện, hắn bị chết bất đắc kỳ tử mà xuyên qua.Kiếp trước không nói làm gì, tiền đồ xa vời, xuyên qua cũng tốt, nói không chừng xuyên qua đến một thế giới khác sẽ đạt được thành tựu lớn hơn.",
+        "Dựa theo những hiểu biết của bản thân hắn trong tiểu thuyết, người xuyên qua, không một người nào đạt được thành tựu quá thấp.Nguyên một đám không phải thê thiếp thành đàn thì cũng là bá chủ của thế giới mới, kém cỏi nhất cũng làm phú nhị gia, hẳn là mình cũng không quá xui xẻo.Xác định mình bị xuyên qua, Lục Thiếu Du không có bất kỳ cảm giác đau khổ hay tiếc nuối gì mà ngược lại hắn cảm thấy mình như được giải thoát. Kiếp trước hắn không phải là người có chức có quyền, cũng không phải người giàu có, tiền đồ rất xa vời, tương lai mờ mịt.",
+        "Nơi này là chỗ nào, tại sao ta lại xuyên đến chỗ quỷ quái này?",
+        "Lục Thiếu Du đánh giá xung quanh, bắt đầu lục lọi ký ức còn lưu lại trong đầu, một đoạn ký ức không thuộc về hắn.Sau một lát, Lục Thiếu Du có loại xúc động muốn tự sát để xem có thể xuyên qua lần nữa hay không. Người khác xuyên qua không phải thành thiếu gia thì cũng là Vương gia, không thì cũng anh tuấn tiêu sái, phong độ bức người, là công tử gia tộc hoặc thế lực lớn.Mà thân thể hắn xuyên vào mặc dù ở thế giới này cũng là một thiếu gia nhưng lại hữu danh vô thực. Vị thiếu gia này cũng tên là Lục Thiếu Du, năm nay vừa mới mười sáu tuổi, là một người con riêng, địa vị của hắn trong gia tộc ngay cả người hầu đều không bằng. Ngoài ra hắn còn có một mẫu thân, trước là người hầu trong gia tộc, sau khi sinh hạ vị thiếu gia này thì càng bị vợ cả ức hiếp,cùng trải qua ngày tháng so với nô tài còn không bằng."
+      ]
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Ftoan-tri-doc-gia.jpg",
+      "name": "Hào Đẳng Cấp Vip ",
+      "Tacgia": "Hào",
+      "id": 8,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    }
+  ],
+  "Tb_dstruyenYT": [
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fhoa-son-tai-xuat.jpg",
+      "name": "Hoa Sơn Tái Xuất",
+      "Tacgia": "TrungVN",
+      "id": 0,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fvan-co-chi-ton.jpg",
+      "name": "Vạn Cổ Chí Tôn",
+      "Tacgia": "Mùi YSL",
+      "id": 1,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fde-che-diet-vong.jpg",
+      "name": "Đế Chế Tuyệt Vong",
+      "Tacgia": "Sơn YSL",
+      "id": 2,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fvo-dich-don-ngo.jpg",
+      "name": "Vô Địch Tốn Ngộ",
+      "Tacgia": "Tuấn ANH BỊP",
+      "id": 3,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fmat-the-quat-khoi.jpg",
+      "name": "Mạt Thế Quật Khởi",
+      "Tacgia": "HuyMom",
+      "id": 4,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fta-mot-buoc-lam-quy-vuong.jpg",
+      "name": "Qủy Vương Xuất Thế",
+      "Tacgia": "PhiMom",
+      "id": 7,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    }
+  ],
+  "Tb_dstruyennb": [
+    {
+      "image": "https://img.8cache.com/hot-9.jpg",
+      "name": "Linh Vũ Thiên Hạ",
+      "Tacgia": "KỲ ĐZ",
+      "id": 0,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/o/eJzLyTDR1430dbb0NfWMd7MM1A9z8nWxDDLx8En11HeEgmzffH1ny6h4g_SkpNBAX_1yQyNL3QxDSyMAJFcRXQ==/vu-dong-can-khon.jpg",
+      "name": "Vũ Động Càng Khôn",
+      "Tacgia": "MuiMom",
+      "id": 1,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/o/eJzLyTDT1y1Mcw2M0C0IMAvL1g9z8nUxMYwyD3Tz1HeEgmwfR_0SAzefTKOgCI8MC_1yQyNL3QxDSyMANjMRcg==/truyen-dau-pha-thuong-khung.jpg",
+      "name": "Phá Thương Khung",
+      "Tacgia": "HHMA",
+      "id": 2,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/o/eJzLyTDV1w3OqHQyMDYI9E2z0A_zDCg1MCrILfb11HeEghw3C333tOQK00qn_HQjC_1yQyNL3QxDSyMAQYcSAQ==/thieu-gia-bi-bo-roi.jpg",
+      "name": "Thiếu Gia  Bỏ Rơi",
+      "Tacgia": "Trường G",
+      "id": 3,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/eJzLyTDWr8g0KCmwdHIMCMp0MTQsNw9yMzXyczXLMXTyiTfNcEv3twzPzIvMTXRycwvON8gJzst1CsgLdw5zTDQ3SgyLMCkvLCgyL64odfENi_Dxcgq1LTcyM9XNMLY0AwCE9x2t/than-dao-dan-ton-606028.jpg",
+      "name": "Thần Đạo Đan Tôn",
+      "Tacgia": "Huy mom",
+      "id": 4,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/eJzLyTDWdwk2zQrzCTEsr0z0CIoMCnIOsgw2DzYy1vVPL3WyyHfNyPf10nUNzw8v9grzjw-IcvaqqCryLYsPMzHJSKsMCi10NTUOjQwuqLDw1HXRrSxJSUq2LTc0stTNMLQ0AgD1Nh72/nguyen-ton.jpg",
+      "name": "Nguyên Tôn Võ Thần",
+      "Tacgia": "TuanBip",
+      "id": 5,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    }
+  ],
+  "Tb_dstruyenbst": [
+    {
+      "name": "Phiêu Lưu Kĩ",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-quy-khong-the-song-cuoc-song-binh-thuong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 9,
+      "Nguon": "Anan",
+      "id": 1,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-khai-bai-gia.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 3,
+      "Nguon": "Anan",
+      "id": 2
+    },
+    {
+      "name": "Hoa Sơn Tái Xuất",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fke-phan-dien-vo-song.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 8,
+      "Nguon": "Anan",
+      "id": 3
+    },
+    {
+      "name": " Nga Lão Ma Thần",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fdai-quan-gia-la-ma-hoang.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 73,
+      "Nguon": "Anan",
+      "id": 4,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Vô Địch Tốn Ngộ",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fke-phan-dien-vo-song.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 63,
+      "Nguon": "Anan",
+      "id": 5,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Mạt Thế Quật Khởi",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-khai-bai-gia.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 23,
+      "Nguon": "Anan",
+      "id": 6,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Qủy Vương Xuất Thế",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fvan-co-toi-cuong-tong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 13,
+      "Nguon": "Anan",
+      "id": 7,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Linh Vũ Thiên Hạ",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fvo-luyen-dinh-phong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 45,
+      "Nguon": "Anan",
+      "id": 8,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Phi Hành Gỉa",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fkhac-kim-thanh-tien.jpg",
+      "Tacgia": "Hồng Sơn",
+      "Sochuong": 15,
+      "Nguon": "non",
+      "id": 9,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img.8cache.com/hot-9.jpg",
+      "name": "Linh Vũ Thiên Hạ",
+      "Tacgia": "KỲ ĐZ",
+      "id": 10,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/o/eJzLyTDR1430dbb0NfWMd7MM1A9z8nWxDDLx8En11HeEgmzffH1ny6h4g_SkpNBAX_1yQyNL3QxDSyMAJFcRXQ==/vu-dong-can-khon.jpg",
+      "name": "Vũ Động Càng Khôn",
+      "Tacgia": "MuiMom",
+      "id": 11,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/o/eJzLyTDT1y1Mcw2M0C0IMAvL1g9z8nUxMYwyD3Tz1HeEgmwfR_0SAzefTKOgCI8MC_1yQyNL3QxDSyMANjMRcg==/truyen-dau-pha-thuong-khung.jpg",
+      "name": "Phá Thương Khung",
+      "Tacgia": "HHMA",
+      "id": 12,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/o/eJzLyTDV1w3OqHQyMDYI9E2z0A_zDCg1MCrILfb11HeEghw3C333tOQK00qn_HQjC_1yQyNL3QxDSyMAQYcSAQ==/thieu-gia-bi-bo-roi.jpg",
+      "name": "Thiếu Gia  Bỏ Rơi",
+      "Tacgia": "Trường G",
+      "id": 13,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/eJzLyTDWr8g0KCmwdHIMCMp0MTQsNw9yMzXyczXLMXTyiTfNcEv3twzPzIvMTXRycwvON8gJzst1CsgLdw5zTDQ3SgyLMCkvLCgyL64odfENi_Dxcgq1LTcyM9XNMLY0AwCE9x2t/than-dao-dan-ton-606028.jpg",
+      "name": "Thần Đạo Đan Tôn",
+      "Tacgia": "Huy mom",
+      "id": 14,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/eJzLyTDWdwk2zQrzCTEsr0z0CIoMCnIOsgw2DzYy1vVPL3WyyHfNyPf10nUNzw8v9grzjw-IcvaqqCryLYsPMzHJSKsMCi10NTUOjQwuqLDw1HXRrSxJSUq2LTc0stTNMLQ0AgD1Nh72/nguyen-ton.jpg",
+      "name": "Nguyên Tôn Võ Thần",
+      "Tacgia": "TuanBip",
+      "id": 15,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fjinrou-e-no-tensei-maou-no-fukukan.jpg",
+      "name": "Tuyệt Thế Võ Thần",
+      "Tacgia": "Hoa Vũ",
+      "id": 16,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fta-la-ta-de.jpg",
+      "name": "  Ta Là Đế Vương",
+      "Tacgia": "Kim Hạo",
+      "id": 17,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    }
+  ],
+  "Tb_dstruyenhaihuoc": [
+    {
+      "name": "Phiêu Lưu Kĩ",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-quy-khong-the-song-cuoc-song-binh-thuong.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 9,
+      "Nguon": "Anan",
+      "id": 1,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/o/eJzLyTDV1w3OqHQyMDYI9E2z0A_zDCg1MCrILfb11HeEghw3C333tOQK00qn_HQjC_1yQyNL3QxDSyMAQYcSAQ==/thieu-gia-bi-bo-roi.jpg",
+      "name": "Thiếu Gia  Bỏ Rơi",
+      "Tacgia": "Trường G",
+      "id": 13,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/eJzLyTDWr8g0KCmwdHIMCMp0MTQsNw9yMzXyczXLMXTyiTfNcEv3twzPzIvMTXRycwvON8gJzst1CsgLdw5zTDQ3SgyLMCkvLCgyL64odfENi_Dxcgq1LTcyM9XNMLY0AwCE9x2t/than-dao-dan-ton-606028.jpg",
+      "name": "Thần Đạo Đan Tôn",
+      "Tacgia": "Huy mom",
+      "id": 14,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://static.8cache.com/cover/eJzLyTDWdwk2zQrzCTEsr0z0CIoMCnIOsgw2DzYy1vVPL3WyyHfNyPf10nUNzw8v9grzjw-IcvaqqCryLYsPMzHJSKsMCi10NTUOjQwuqLDw1HXRrSxJSUq2LTc0stTNMLQ0AgD1Nh72/nguyen-ton.jpg",
+      "name": "Nguyên Tôn Võ Thần",
+      "Tacgia": "TuanBip",
+      "id": 15,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fjinrou-e-no-tensei-maou-no-fukukan.jpg",
+      "name": "Tuyệt Thế Võ Thần",
+      "Tacgia": "Hoa Vũ",
+      "id": 16,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fta-la-ta-de.jpg",
+      "name": "  Ta Là Đế Vương",
+      "Tacgia": "Kim Hạo",
+      "id": 17,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- hao"
+    },
+    {
+      "name": " Nga Lão Ma Thần",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fdai-quan-gia-la-ma-hoang.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 73,
+      "Nguon": "Anan",
+      "id": 4,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Vô Địch Tốn Ngộ",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fke-phan-dien-vo-song.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 63,
+      "Nguon": "Anan",
+      "id": 5,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    }
+  ],
+  "Tb_dstruyentrinhtham": [
+    {
+      "name": "Phiêu Lưu Kĩ",
+      "image": "https://blog.dammong.com/content/images/2020/11/1.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 9,
+      "Nguon": "Anan",
+      "id": 1,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Độc Tôn Tam Giới",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fthien-khai-bai-gia.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 3,
+      "Nguon": "Anan",
+      "id": 2
+    },
+    {
+      "name": "Hoa Sơn Tái Xuất",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fke-phan-dien-vo-song.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 8,
+      "Nguon": "Anan",
+      "id": 3
+    },
+    {
+      "name": " Nga Lão Ma Thần",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fdai-quan-gia-la-ma-hoang.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 73,
+      "Nguon": "Anan",
+      "id": 4,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    },
+    {
+      "name": "Vô Địch Tốn Ngộ",
+      "image": "https://img-cache.coccoc.com/vimage?ns=manga&url=https%3A%2F%2Fnettruyenco.vn%2Fpublic%2Fimages%2Fcomics%2Fke-phan-dien-vo-song.jpg",
+      "Tacgia": "Hoa Vũ",
+      "Sochuong": 63,
+      "Nguon": "Anan",
+      "id": 5,
+      "Mieuta": "Ngày tận thế nổ ra, virus zombie đã lây lan một cách điên cuồng. Diệp Bắc đã bị bạn bè phản bội, cánh tay của anh đã bị một thây ma cắn, và anh đã sống những ngày tháng khổ cực trong năm mươi năm tận thế. Với những nỗ lực của mình và trở thành một thợ cơ khí, Diệp Bắc đã phát minh ra cỗ máy thời gian, trở lại ngày đầu 50 năm trước và viết lại cuộc đời huyền thoại của mình. Nhìn thấy trái tim độc ác của mọi người, anh ta thề sẽ tồi tệ hơn, ích kỷ hơn và trở thành nhân vật phản diện.",
+      "Theloai": "Hành động, Phiêu lưu, Manhwa, Truyện màu, Shounen, Manga",
+      "noidung": "- Ưm, ta đang ở nơi nào thế này?"
+    }
+  ],
+  "chinhsach": [
+    {
+      "image": "https://images.search.yahoo.com/search/images;_ylt=Awr935oOUaFl0P4AmHCJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDOXZ5dDJHQ1FTUE95Zjg3b2RWSUhUQQRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzI4BHF1ZXJ5A2NoJUMzJUFEbmglMjBzJUMzJUExY2glMjBiJUUxJUJBJUEzbyUyMG0lRTElQkElQUR0JTIwdGglQzMlQjRuZyUyMHRpbgR0X3N0bXADMTcwNTA3MDg4OA--?p=ch%C3%ADnh+s%C3%A1ch+b%E1%BA%A3o+m%E1%BA%ADt+th%C3%B4ng+tin&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210US91215G0#id=18&iurl=https%3A%2F%2Flbk.vn%2Fwp-content%2Fuploads%2F2021%2F05%2Fngolongnd_chinh-sach-bao-mat.jpg&action=click"
+    }
+  ]
+}
